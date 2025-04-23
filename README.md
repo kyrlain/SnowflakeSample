@@ -1,1 +1,2 @@
 # SnowflakeSample
+This is a project that follows the outlined process in [Geospatial Analysis of Precisely Datasets using Snowflake Notebooks and Streamlit](https://quickstarts.snowflake.com/guide/using_precisely_enrich_data). This project uses `geopandas` to display geospatial data, particulary the `MICROCODE` `13123031007`. `Streamlit` is the used to display the map.
